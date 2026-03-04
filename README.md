@@ -52,4 +52,20 @@ Join our community of developers creating universal apps.
 =======
 # Calculadora-verde
 ![protótipo](AC.png)
+
+# REQUISITOS CALCULADORA
+
+## 1. Funcionais
+
+- Calcular funções básicas (Subtração, Adição, Divisão, Multiplicação e Porcentagem).
+- Apresentar os valores na parte superior da tela de forma indentada.
+- Deve ser possível utilizar os botões presentes na tela de forma a não precisar digitar os números.
+- Deve ser possível resetar a operação e apagar o último número dado.
+
+## 2. Não Funcionais
+
+- Botões devem estar organizados na forma padrão de calculadoras.
+- Os botões devem seguir um alto contraste para a fácil visualização.
+- Deve-se seguir a paleta de cores preta, branco, cinza e verde.
+- O resultado deve ser rápido (Máximo de 2 segundos).
 >>>>>>> 089b3f7820564456230b20a005ceaadd1c7f85eb
